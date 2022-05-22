@@ -1,7 +1,7 @@
 # Ceng-240
 Programming with Python for Engineers Course
 
-Solution of the exercises in The Workbook for Programming with Python for Engineers
+Solutions of the exercises in The Workbook for Programming with Python for Engineers
 https://pp4e-workbook.github.io/
 
 1. Dive into Python
@@ -11,3 +11,5 @@ https://pp4e-workbook.github.io/
 5. File Handling
 6. Error Handling and Debugging
 7. Scientific and Engineering Libraries
+
+*.py and *.ipynb(coolab) versions
