@@ -1,5 +1,5 @@
 # Ceng-240
-Programming with Python for Engineers Course
+Programming with Python for Engineers/ 2020-2021 Spring
 
 Solutions of the exercises in The Workbook for Programming with Python for Engineers
 https://pp4e-workbook.github.io/
